@@ -6,7 +6,9 @@ This is a basic NEO-6M GPS module and Raspberry Pi configuration with python scr
 ### 1. Schema
 
 ### Raspberry Pi Zero W Schema 
+
 ![Raspberry Pi Zero W Schema](assets/raspberry-pi-schema.png)
+
 ![Raspberry Pi Zero W Schema](assets/raspberry-pi-zero-w-schema.png)
 
 ### NEO-6M
